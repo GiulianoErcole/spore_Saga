@@ -1,4 +1,3 @@
-# game/world.py
 import pygame
 from random import randint
 from .player import Player
