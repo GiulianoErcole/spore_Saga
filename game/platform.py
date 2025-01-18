@@ -1,4 +1,3 @@
-# game/platform.py
 import pygame
 
 class Platform:
